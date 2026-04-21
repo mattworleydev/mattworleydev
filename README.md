@@ -8,7 +8,7 @@ I'm a **Software Engineering graduate student (M.S. DevOps Engineering)** with a
 
 📱 **Mobile App Capstone** 
 A full-stack mobile application built as part of my Software Engineering degree.  
-Repository: https://github.com/mattworleydev/emergency-preparedness-manager-app
+View Project: [Emergency Preparedness Manager](https://github.com/mattworleydev/emergency-preparedness-manager-app)
 
 ---
 
