@@ -1,30 +1,49 @@
-# 👋 Hi there, I'm Matt Worley
+# 👋 Hi, I'm Matt Worley
 
-I'm a  **Software Engineering student** with a passion for building clean, scalable sysems. I enjoy pushing my boundaries through new technologies.
+I'm a **Software Engineering graduate student (M.S. DevOps Engineering)** with a background in **team leadership and operations**. I enjoy building reliable systems, automating workflows, and continuously leveling up my skills through hands-on projects.
 
-### 🧠 Recent Milestones
-[![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B-DC143C?logoColor=white)](https://www.credly.com/earner/earned/badge/7ae0c5a4-a99f-4b1f-ae59-63f2fb971f18)
+---
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232f3e?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/dc100fc8-1a63-4017-b8b2-fe69ee53c406)
+## 🚀 Featured Project
 
-### 🌱 Currently learning
-- **JavaScript**
-- **Python**
-- **SQL**
+📱 **Mobile App Capstone** 
+A full-stack mobile application built as part of my Software Engineering degree.  
+Check it out in my repositories.
 
-### 🛠️ Tech I'm Familiar With
-- Java, Python, Javascript, HTML/CSS, SQL
-- Git & Github
+---
 
-### 🚧 Projects & Interests
-- Automating tasks and workflows with Python
-- Self-hosted services with Docker on Linux
-- Building secure, user-friendly web apps
-- Playing D&D and tinkering with home lab setups
+## 🧠 Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232f3e?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/dc100fc8-1a63-4017-b8b2-fe69ee53c406)  
+[![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B-DC143C?logoColor=white)](https://www.credly.com/earner/earned/badge/7ae0c5a4-a99f-4b1f-ae59-63f2fb971f18)  
+![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4%20Foundation-purple)  
+![WGU Back-End Developer](https://img.shields.io/badge/WGU-Back--End%20Developer-blue)
+
+---
+
+## 🌱 Currently learning
+
+- Python
+- JavaScript and modern web development
+- SQL and database design fundamentals
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, JavaScript, SQL
+**Web:** HTML, CSS
+**Tools:** Git, GitHub
+**Other:** Microsoft Office, Google Workspace
+
+---
+
+## 🚧 Interests & Direction
+
+- Automation and scripting  
+- Backend systems and APIs  
+- Containerization and self-hosted environments 
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/matthew-worley-dev/)
-
 
 ---
 
