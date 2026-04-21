@@ -30,8 +30,11 @@ View Project: [Emergency Preparedness Manager](https://github.com/mattworleydev/
 ## 🛠️ Tech Stack
 
 **Languages:** Java, Python, JavaScript, SQL
+
 **Web:** HTML, CSS
+
 **Tools:** Git, GitHub
+
 **Other:** Microsoft Office, Google Workspace
 
 ---
